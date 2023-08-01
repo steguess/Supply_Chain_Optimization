@@ -1,4 +1,4 @@
-# Reinforcement Course with Supply Chain Optimization for Diabetes Care
+# Reinforcement Learning  - Supply Chain Optimization for Diabetes Care Products
 
 ![Example Image](Container.png)
 
