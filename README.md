@@ -1,6 +1,6 @@
 # Reinforcement Course with Supply Chain Optimization for Diabetes Care
 
-![Example Image](container.png)
+![Example Image](Container.png)
 
 Welcome to the Reinforcement Course with Supply Chain Optimization for Diabetes Care! This Python notebook focuses on managing the production and forecast of diabetes care products in the Asia-Pacific (APAC) region.
 
