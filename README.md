@@ -4,6 +4,9 @@
 
 Welcome to the Reinforcement Course with Supply Chain Optimization for Diabetes Care! This Python notebook focuses on managing the production and forecast of diabetes care products in the Asia-Pacific (APAC) region.
 
+[Click here to view the notebook on nbviewer](https://nbviewer.org/github/steguess/Supply_Chain_Optimization/blob/0900ca38adad339c7792b2333a56df118608f680/RL_SCO.ipynb)
+
+
 ##  Objective 🎯
 As a supply chain manager, our primary goal is to optimize operations and maximize profits while ensuring the diverse markets in the APAC region are well-served with glucose testing strips, meters, and ancillary supplies.
 
