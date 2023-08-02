@@ -42,3 +42,5 @@ This notebook equips you to optimize supply chain operations for diabetes care p
 Dominik Roser : https://github.com/domro11
 
 Stephanie Gessler: https://github.com/steguess
+
+Christian Barba: https://github.com/CBRodulfo
